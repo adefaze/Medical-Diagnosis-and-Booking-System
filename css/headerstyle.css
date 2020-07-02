@@ -1,0 +1,49 @@
+html {
+  height: 100%;
+}
+
+body {
+  min-height: 100vh;
+}
+
+.diagnosis-section {
+  color: red;
+  height: 150px;
+  background-color: rgb(252, 252, 252);
+}
+
+.find-doctor-section {
+  color: red;
+  height: 150px;
+  background-color: white;
+}
+
+.appointment {
+  color: red;
+  height: 150px;
+  background-color: rgb(252, 252, 252);
+}
+
+.fa {
+  font-size: 30px;
+}
+
+h3 strong {
+  color: rgb(53, 53, 170);
+}
+
+.fa {
+  color: rgb(3, 70, 3);
+}
+
+.footer {
+  clear: both;
+  position: relative;
+
+  margin-top: -200px;
+  background-color: red;
+}
+
+.flex-grow {
+  flex: 1;
+}
